@@ -35,10 +35,10 @@ header nav {
 
 header nav ul {
   list-style-type: none;
-  position: absolute;
+  /* position: absolute;
   margin: 0;
   bottom: 50;
-  left: 67%;
+  left: 67%; */
 }
 
 header nav ul li {
@@ -54,6 +54,8 @@ a {
 p {
   font-size: 16px;
 }
+
+
 
 .hero {
   height: 800px;
@@ -212,5 +214,3 @@ footer h2 {
     left: 65%;
 
   } */
-  
-}
